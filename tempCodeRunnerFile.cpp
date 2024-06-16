@@ -1,0 +1,1 @@
+cout<<"the value of num is :"<<*ptr++<<endl;
