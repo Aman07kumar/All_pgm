@@ -1,3 +1,1 @@
-else {
-                    // System.out.print(" ");
-                    // }
+k = k % nums.length;
