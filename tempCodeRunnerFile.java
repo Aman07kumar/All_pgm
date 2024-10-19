@@ -1,1 +1,1 @@
-k = k % nums.length;
+rearrange(arr, n , k);
